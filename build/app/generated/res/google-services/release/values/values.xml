@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">1089141095851-j5l9gec7hbc8nivpfrja2c8sdntkicdj.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">1089141095851</string>
+    <string name="google_api_key" translatable="false">AIzaSyCMRSjwwOnfkuJI2gfRk1tbwGAw69KIqG0</string>
+    <string name="google_app_id" translatable="false">1:1089141095851:android:60cd2f05a455bc2d4266ee</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCMRSjwwOnfkuJI2gfRk1tbwGAw69KIqG0</string>
+    <string name="google_storage_bucket" translatable="false">lili-james-c0e56.appspot.com</string>
+    <string name="project_id" translatable="false">lili-james-c0e56</string>
+</resources>

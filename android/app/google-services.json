@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1089141095851",
+    "project_id": "lili-james-c0e56",
+    "storage_bucket": "lili-james-c0e56.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1089141095851:android:60cd2f05a455bc2d4266ee",
+        "android_client_info": {
+          "package_name": "mianffery.ivc.lili"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1089141095851-i6g357kaf7aq0lp1bqduh4maot0laj2c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "mianffery.ivc.lili",
+            "certificate_hash": "2e431f8996029be6006267a05b45c5794e7dad51"
+          }
+        },
+        {
+          "client_id": "1089141095851-j5l9gec7hbc8nivpfrja2c8sdntkicdj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMRSjwwOnfkuJI2gfRk1tbwGAw69KIqG0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1089141095851-j5l9gec7hbc8nivpfrja2c8sdntkicdj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

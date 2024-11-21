@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "mianffery.ivc.lili.app-mergeReleaseResources-90:/values-ldpi-v4/values-ldpi-v4.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-3\\96c3e85ca4b346aae72b340ab329a925\\transformed\\jetified-payments-core-20.11.0\\res\\values-ldpi-v4\\values-ldpi-v4.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "56",
+                        "endOffsets": "107"
+                    }
+                }
+            ]
+        }
+    ]
+}
